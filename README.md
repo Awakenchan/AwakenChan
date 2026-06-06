@@ -33,18 +33,20 @@ I build the systems other developers rely on — frameworks, anti-cheat, and sec
 ### Notable work
 
 - **GcViewerV3** — in-depth function/script inspection tooling using GC scanning
-- **AwakenAuth** — authentication / whitelist backend (in development)/Stand alone with no web panel is up!
+- **AwakenAuth** — authentication / whitelist backend (in development)
+- **BetterLocals** — variable-based logging to cut down on console spam
+- **WhitelistSystem** — free, user-friendly whitelist solution
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AwakenChan&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fork-steel.vercel.app/api?username=Awakenchan&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwakenChan&theme=radical&layout=compact&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats-fork-steel.vercel.app/api/top-langs/?username=Awakenchan&theme=radical&layout=compact&langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AwakenChan&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Awakenchan&theme=radical" alt="GitHub Streak" />
 </p>
