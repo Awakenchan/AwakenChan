@@ -33,8 +33,8 @@ I build the systems other developers rely on — frameworks, anti-cheat, and sec
 ### Notable work
 
 - **GcViewerV3** — in-depth function/script inspection tooling using GC scanning
-- **AwakenAuth** — authentication / whitelist backend (in development)
-- **BetterLocals** — variable-based logging to cut down on console spam
+- **AwakenAuth** — authentication / whitelist backend (web panels and sub based model in development)
+- **BetterLocals** — variable-based logging to cut down on findservice and over all manging ur locals
 - **WhitelistSystem** — free, user-friendly whitelist solution
 
 ---
