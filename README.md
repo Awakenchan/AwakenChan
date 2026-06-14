@@ -6,7 +6,7 @@
   "Everything I'm not made me everything I am."
 </p>
 <p align="center">
-  <a href="https://ropage.gg/awakenshenron">Portfolio</a> •
+  <a href="https://awakenkn.netlify.app/">Portfolio</a> •
   <a href="https://e-z.bio/awaken">Links</a>
 </p>
 
