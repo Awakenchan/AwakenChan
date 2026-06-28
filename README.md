@@ -25,12 +25,9 @@ I build the systems other developers rely on — frameworks, anti-cheat, and sec
 `Luau` · `Lua` · `Python`
 
 ### Notable work
-- **El Paso, Texas: Border Roleplay** — built the anti-cheat system for one of Roblox's top-charting roleplay titles
-- **BloxStrike** — exploit mitigation and security work
-- **GcViewerV3** — in-depth function/script inspection tooling using GC scanning
-- **AwakenAuth** — authentication / whitelist backend (web panels and sub based model in development)
-- **BetterLocals** — variable-based logging to cut down on findservice and over all manging ur locals
-- **WhitelistSystem** — free, user-friendly whitelist solution
+[IronGate](https://irongate.ac)
+
+[For more work!](https://awakenkn.netlify.app/)
 
 ---
 
